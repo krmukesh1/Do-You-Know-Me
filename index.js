@@ -11,7 +11,7 @@ function Play(question, answer) {
 
   }
   else {
-    console.log("You are Wrong")
+    console.log("You are Wrong!")
   }
 }
 // basic method
